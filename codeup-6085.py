@@ -1,0 +1,1 @@
+print(f"{(eval('*'.join(input().split())) / 8388608):.2f}", "MB")

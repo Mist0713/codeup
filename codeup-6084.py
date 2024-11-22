@@ -1,0 +1,1 @@
+print(round(eval('*'.join(input().split())) / 8388608, 1), "MB")
